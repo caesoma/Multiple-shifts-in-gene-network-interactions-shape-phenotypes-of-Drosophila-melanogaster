@@ -1,6 +1,6 @@
 # Multiple shifts in gene network interactions shape phenotypes of _Drosophila melanogaster_ selected for long and short night sleep duration
 
-This repo provides functions and walkthrough scripts to reproduce analyses and figures in Souto-Maior _et al_. bioRxiv **2021**:451943; [doi: 10.1101/2021.07.11.451943](https://doi.org/10.1101/2021.07.11.451943).
+This repo provides functions and walkthrough scripts to reproduce analyses and figures in Souto-Maior C, Serrano Negron YL, Harbison ST (2023) Nonlinear expression patterns and multiple shifts in gene network interactions underlie robust phenotypic change in Drosophila melanogaster selected for night sleep duration. PLOS Computational Biology 19(8): e1011389; [https://doi.org/10.1371/journal.pcbi.1011389](https://doi.org/10.1371/journal.pcbi.1011389).
 
 This repo contains the `evorna` package with modules and functions to reproduce all Python analyses in the manuscript (see package README and docstrings for more details on moduels and functions). It also contains walkthrough scripts to use those functions to reproduce the figures generated in Python as seen in the manuscript from scratch (i.e. from count data). Additional folders in the repo (outside of the `evorna` folder) contain the Stan model code (`/stan`) and some "default" locations for the data, figures, and tables (as well as some package installation related files: `dist` and `evorna.egg-info`).
 
